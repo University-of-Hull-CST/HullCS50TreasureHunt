@@ -4,4 +4,4 @@ Your team can "claim" a location by tweeting a group selfie at the location usin
 If there are members of the group that don't want to appear in the group selfie for whatever reason, then that is fine.
 
 #1
-![Clue 1](images/1.png)
+![Clue 1](images/20220711_131433.jpg)
