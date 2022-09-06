@@ -1,8 +1,10 @@
 This is a picture based Treasure Hunt where you have to find the campus locations in your Personal Supervisor groups using the picture clues.
 
-Your team can "claim" a location by tweeting a group selfie at the location using the hashtag #HullCSInduction22 and including the location number and your supervisor's last name.
+Your team can "claim" a location by tweeting a group selfie at the location using the hashtag #HullCSInduction22 and including the location number and your supervisor's last name. Fly the flag, with at least one shiny new Computer Science t-shirt in the picture.
 
 If there are members of the group that don't want to appear in the group selfie for whatever reason, then that is fine.
+
+Team with the most found locations wins, with ties broken by order of discovery and number of Computer Science t-shirts on display.
 
 # Clue 1
 
