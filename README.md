@@ -85,3 +85,19 @@ Team with the most found locations wins, with ties broken by order of discovery 
 # Clue 20
 
 ![Clue 20](images/20220711_134439.jpg)
+
+# Clue 21
+
+![Clue 21](images/20220916_152500.jpg)
+
+# Clue 22
+
+![Clue 22](images/20220916_152436.jpg)
+
+# Clue 23
+
+![Clue 23](images/20220916_152405.jpg)
+
+# Clue 24
+
+![Clue 24](images/20220916_152331.jpg)
