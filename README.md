@@ -2,7 +2,7 @@ This is a picture based Treasure Hunt where you have to find the campus location
 
 You can "claim" a location by uploading a selfie at the location to the HullCS50 Discord server, where I have created a channel for this exact purpose called "#picture-treasure-hunt" and including the location number. 
 
-There are 17 locations. Most found locations wins, with ties broken by order of discovery.
+There are 17 pictured locations. Most found locations wins, with ties broken by order of discovery.
 
 # Clue 1
 
